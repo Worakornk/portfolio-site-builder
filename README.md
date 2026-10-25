@@ -64,6 +64,18 @@ Static output on Cloudflare Pages' free plan, with publish and rollback steps, t
 </tr>
 </table>
 
+## Who it might suit
+
+It may be useful if you are:
+
+- **an academic or researcher** who wants one page that lists their publications, students and projects correctly, in more than one language;
+- **a family member, student or assistant** building a site for someone else and needing a way to check facts and get their approval;
+- **a university office or research group** making profile sites for several people in the same format;
+- **a professional or executive** whose public record is spread over news items, institution pages and an old CV;
+- **a developer** who likes the pattern (pre-rendered React, URLs per language, structured data) and wants it written down for an AI agent to follow.
+
+It is probably more than you need for a one-page résumé, or for a site that will never be in a second language. In that case, the intake questions and the research method may still help.
+
 <p align="center">
   <img src="assets/phases.svg" alt="Workflow: 0 intake, 1 research, 2 decisions, 3 scaffold, 4 pages, 5 SEO/AEO, 6 QA, 7 launch, 8 handover" width="100%">
 </p>
