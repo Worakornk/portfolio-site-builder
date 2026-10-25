@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="portfolio-site-builder: fact-checked, multilingual portfolio sites for real people, built with any AI agent" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-light.svg">
+    <img src="assets/banner.gif" width="960" alt="portfolio-site-builder: fact-checked, multilingual portfolio sites for real people, built with any AI agent">
+  </picture>
 </p>
 
 <p align="center">
